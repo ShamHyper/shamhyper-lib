@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(
-    name="shamhyper-lib",
+    name="shamhyper",
     version="0.0.1",
     author="ShamHyper",
     author_email="makar.shatc@gmail.com",
@@ -20,7 +20,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    keywords="shamhyper help ",
+    keywords="shamhyper help lib ",
     project_urls={"GitHub": "https://github.com/ShamHyper/shamhyper-lib"},
     python_requires=">=3.6",
 )
